@@ -71,25 +71,31 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 ## Tabulation for 2.5GB 
-![WhatsApp Image 2026-02-01 at 11 30 11](https://github.com/user-attachments/assets/1235101d-2be8-4aa1-80ba-eaf126d23404)
+![WhatsApp Image 2026-02-07 at 1 56 17 PM](https://github.com/user-attachments/assets/451e07e2-1073-4aa0-aebf-03ecfdd93ba2)
+
 
 ## Tabulation for 10 GB
-![WhatsApp Image 2026-02-01 at 11 30 11 (1)](https://github.com/user-attachments/assets/0c82be13-ca45-48b1-a2c2-6bb992a96bef)
+![WhatsApp Image 2026-02-07 at 1 56 19 PM](https://github.com/user-attachments/assets/f8a69e83-87dd-4e95-8a2e-fa3a8e887ca3)
 
 ## Calculation
-![WhatsApp Image 2026-02-01 at 11 30 12](https://github.com/user-attachments/assets/4af43dc7-b2fa-4bae-86b2-cc4cddb6112a)
+![WhatsApp Image 2026-02-07 at 1 56 25 PM](https://github.com/user-attachments/assets/429f657d-02f8-42a5-8189-079d1c010089)
+
 
 ## High Noise for 2.5 GB
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9dc191e5-c286-46dd-82a8-fb3b151629dc" />
+![WhatsApp Image 2026-02-07 at 1 50 19 PM](https://github.com/user-attachments/assets/f57ff772-de5b-4d86-9491-ad9b6df853c8)
+
 
 ## Low Noise for 2.5 GB
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/47c8ddb6-b83f-4eb9-a4c4-880cf6ab40ff" />
+![WhatsApp Image 2026-02-07 at 1 49 16 PM](https://github.com/user-attachments/assets/a5c6ff78-5b29-4cc2-8b53-a5fc6f54111b)
+
 
 ## High Noise for 10 GB
-<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ff0feead-dd0b-4208-b152-ee5a658727b7" />
+![WhatsApp Image 2026-02-07 at 1 50 19 PM (1)](https://github.com/user-attachments/assets/d86d538e-b356-4933-8d9e-17cd21f9ff08)
+
 
 ## Low Noise for 10 GB
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/472545bd-2f3d-4925-96e7-aa8b25b80b0c" />
+![WhatsApp Image 2026-02-07 at 1 50 19 PM (2)](https://github.com/user-attachments/assets/eee685dc-c001-4919-9653-b4c8ba02d7ef)
+
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
